@@ -2,7 +2,7 @@
 - 👀 I’m interested in python
 - 🌱 I’m currently learning info sec
 - 💞️ I’m looking to collaborate on blockchain application
-- 📫 How to reach me adanhassan1998@gmail.com
+- 📫 How to reach me adanhassan1998@gmail.com 0742777480
 
 <!---
 Hassantadicha/Hassantadicha is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
