@@ -2,7 +2,6 @@
 - ctf player
 - 👀 I’m interested in python
 - 🌱 I’m currently learning info sec
-- 💞️ I’m looking to collaborate on blockchain application
 - 📫 How to reach me adanhassan1998@gmail.com
 
 <!---
