@@ -1,7 +1,5 @@
 - 👋 Hi, I’m @Hassantadicha
-- ctf player
-- 👀 I’m interested in python
-- 🌱 I’m currently learning info sec
+- Cybersecurity | Digital Forensic | Reverse engineering | Ctf player
 - 📫 How to reach me adanhassan1998@gmail.com
 
 <!---
